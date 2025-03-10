@@ -254,8 +254,4 @@ with tab4:
     st.markdown('<div class="separator" style="height: 3px; background-color: #003366; margin-top: 20px; margin-bottom: 20px;"></div>', unsafe_allow_html=True)
 
 
-st.markdown("""
-    <div class="footer">
-        Developed by  style="color: silver; font-weight: bold;">Ahmed Hasnain</a>.
-    </div>
-""", unsafe_allow_html=True)    
+ 
